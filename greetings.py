@@ -7,5 +7,5 @@ print("Italian : ","Ciao")
 print("Chinese : ","Nǐ hǎo")
 print("Japanese : ","Konnichiwa")
 print("Russian : ","Privet")
-
 print("Filipino : ","Kamusta")
+print("Korean : ","Annyeonghaseyo)")
