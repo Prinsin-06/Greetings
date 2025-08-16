@@ -9,3 +9,5 @@ print("Japanese : ","Konnichiwa")
 print("Russian : ","Privet")
 print("Filipino : ","Kamusta")
 print("Korean : ","Annyeonghaseyo)")
+
+print("Thai : ","Sawasdee")
